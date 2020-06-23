@@ -2,12 +2,12 @@
   <div class="hello">
     <img alt="Vue logo" src="../assets/logo.png" />
     <h1>{{ msg }}</h1>
-    <h3>Cupcake Ipsum</h3>
+    <h3>Veggie Ipsum</h3>
     <p>
-      Jelly-o oat cake tart pie halvah bonbon. Caramels sweet roll soufflé fruitcake candy sweet roll croissant pie
-      sesame snaps. Sweet roll caramels wafer sugar plum tiramisu tart danish tootsie roll pastry. Lemon drops lollipop
-      jujubes croissant dragée lemon drops. Sesame snaps tootsie roll carrot cake. Gummies oat cake pastry caramels
-      fruitcake tootsie roll apple pie chupa chups.
+      Veggies es bonus vobis, proinde vos postulo essum magis kohlrabi welsh onion daikon amaranth tatsoi tomatillo
+      melon azuki bean garlic. Gumbo beet greens corn soko endive gumbo gourd. Parsley shallot courgette tatsoi pea
+      sprouts fava bean collard greens dandelion okra wakame tomato. Dandelion cucumber earthnut pea peanut soko
+      zucchini.
     </p>
   </div>
 </template>
