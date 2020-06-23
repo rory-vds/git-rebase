@@ -2,14 +2,12 @@
   <div class="hello">
     <img alt="Vue logo" src="../assets/logo.png" />
     <h1>{{ msg }}</h1>
-    <h3>Bacon Ipsum</h3>
+    <h3>Cupcake Ipsum</h3>
     <p>
-      Bacon ipsum dolor amet ham hock salami tongue, pork kielbasa spare ribs filet mignon turducken venison. Shoulder
-      bresaola ham sirloin spare ribs, fatback landjaeger alcatra corned beef burgdoggen ham hock rump pork loin.
-      Shankle ham meatloaf biltong meatball porchetta cupim drumstick landjaeger kevin bresaola frankfurter. Fatback
-      chislic tongue salami porchetta, short loin flank shankle shoulder pork loin pork pork belly burgdoggen leberkas.
-      Flank turducken corned beef capicola ham hock pancetta. Bresaola hamburger brisket, frankfurter turducken shoulder
-      pork loin ball tip fatback. Alcatra cupim meatball burgdoggen.
+      Jelly-o oat cake tart pie halvah bonbon. Caramels sweet roll soufflé fruitcake candy sweet roll croissant pie
+      sesame snaps. Sweet roll caramels wafer sugar plum tiramisu tart danish tootsie roll pastry. Lemon drops lollipop
+      jujubes croissant dragée lemon drops. Sesame snaps tootsie roll carrot cake. Gummies oat cake pastry caramels
+      fruitcake tootsie roll apple pie chupa chups.
     </p>
   </div>
 </template>
