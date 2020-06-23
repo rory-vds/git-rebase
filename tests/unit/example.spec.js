@@ -7,6 +7,9 @@ describe('HelloWorld.vue', () => {
     const wrapper = shallowMount(HelloWorld, {
       propsData: { msg },
     });
+    const htmlToString = wrapper.html().toString();
+    // Check if the class hello is present.
+    expect(htmlToString.includes('class="hello"')).toBeTruthy();
     expect(wrapper.text()).toMatch(msg);
   });
 });

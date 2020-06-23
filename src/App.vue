@@ -1,7 +1,17 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <HelloWorld msg="Hello World - Codezilla Knowledge Session" />
+    <div class="how-to">
+      <h2>How to use git bisect and git rebase:</h2>
+      <ol>
+        <li>Use git rebase</li>
+        <li>Create bug</li>
+        <li>Use git bisect</li>
+        <li>Fix bug</li>
+        <li>????????</li>
+        <li>Profit</li>
+      </ol>
+    </div>
   </div>
 </template>
 
@@ -21,8 +31,18 @@ export default {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+ul li {
+  margin: 0;
+}
+.how-to {
+  list-style: inside;
+  list-style-type: decimal;
+  text-align: center;
+  ol {
+    padding: 0;
+  }
 }
 </style>
