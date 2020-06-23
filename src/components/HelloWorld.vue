@@ -1,16 +1,17 @@
 <template>
-  <div class="hello">
+  <div class="hellow">
     <img alt="Vue logo" src="../assets/logo.png" />
     <h1>{{ msg }}</h1>
-    <h3>Chuck Norris Ipsum</h3>
+    <h3>Lorem Ipsum</h3>
     <p>
-      Chuck Norris can slam a revolving door. Chuck Norris can have his cake and eat it, too. Chuck Norris is currently
-      suing NBC, claiming Law and Order are trademarked names for his left and right legs Chuck Norris can slice meat so
-      thin is only has one side, When Chuck Norris sends in his taxes, he sends blank forms and includes only a picture
-      of himself, crouched and ready to attack. Chuck Norris has not had to pay taxes, ever Chuck Norris is the only man
-      to ever defeat a brick wall in a game of tennis. Chuck Norris looks gift horses in the mouth. Chuck Norris doesn’t
-      wear a watch. HE decides what time it is, The Great Wall of China was originally created to keep Chuck Norris out.
-      It failed miserably.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet neque vitae nisl lobortis ullamcorper.
+      Cras ornare malesuada tellus eu sodales. Curabitur dictum metus mollis rhoncus pharetra. Curabitur pellentesque mi
+      et porttitor placerat. Nullam vestibulum feugiat ex, vel porta velit hendrerit pulvinar. Proin vestibulum, ipsum
+      et eleifend suscipit, justo quam blandit sem, id pellentesque augue dui interdum eros. Phasellus vitae orci
+      sagittis, dignissim dui id, lobortis erat. Phasellus interdum ex quis feugiat accumsan. Praesent porttitor iaculis
+      sem, et consectetur tellus ultrices eget. Phasellus eget sagittis nisl. Cras non sagittis lacus. Integer non
+      maximus eros. Mauris mollis, felis nec molestie ullamcorper, augue tortor rutrum augue, nec ullamcorper mauris
+      risus non odio. In auctor finibus quam at viverra.
     </p>
   </div>
 </template>

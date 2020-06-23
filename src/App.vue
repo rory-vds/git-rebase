@@ -10,6 +10,7 @@
         <li>Fix bug</li>
         <li>????????</li>
         <li>Profit</li>
+        <img alt="Magic" src="./assets/magic.webp" />
       </ol>
     </div>
   </div>
