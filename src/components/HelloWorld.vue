@@ -2,12 +2,13 @@
   <div class="hello">
     <img alt="Vue logo" src="../assets/logo.png" />
     <h1>{{ msg }}</h1>
-    <h3>Veggie Ipsum</h3>
+    <h3>Cat Ipsum</h3>
     <p>
-      Veggies es bonus vobis, proinde vos postulo essum magis kohlrabi welsh onion daikon amaranth tatsoi tomatillo
-      melon azuki bean garlic. Gumbo beet greens corn soko endive gumbo gourd. Parsley shallot courgette tatsoi pea
-      sprouts fava bean collard greens dandelion okra wakame tomato. Dandelion cucumber earthnut pea peanut soko
-      zucchini.
+      Plays league of legends stare out the window. Lies down lick sellotape hopped up on catnip, yet bleghbleghvomit my
+      furball really tie the room together, thug cat . Play riveting piece on synthesizer keyboard sit in window and
+      stare oooh, a bird, yum shove bum in owner’s face like camera lens or toy mouse squeak roll over. Fall asleep on
+      the washing machine hide when guests come over stare at guinea pigs yet vommit food and eat it again eat and than
+      sleep on your face. Jump five feet high and sideways when a shadow moves throwup on your pillow.
     </p>
   </div>
 </template>
